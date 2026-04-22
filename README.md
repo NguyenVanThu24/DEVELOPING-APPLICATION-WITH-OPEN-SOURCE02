@@ -6,5 +6,6 @@
 ## NỘI DUNG BÀI TẬP:
 
 ### ***Đề 01: Mariadb + Wordpress***
+https://github.com/NguyenVanThu24/DEVELOPING-APPLICATION-WITH-OPEN-SOURCE02/blob/main/De_01.md
 
 ### ***Đề 02: Portgress + ODOO***
