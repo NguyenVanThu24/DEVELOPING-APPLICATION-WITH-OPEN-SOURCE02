@@ -10,3 +10,11 @@ https://github.com/NguyenVanThu24/DEVELOPING-APPLICATION-WITH-OPEN-SOURCE02/blob
 
 ### ***Đề 02: Portgress + ODOO***
 https://github.com/NguyenVanThu24/DEVELOPING-APPLICATION-WITH-OPEN-SOURCE02/blob/main/De_02.md
+
+### ***Đề 03: Mariadb + HASS + HACS***
+
+
+### ***Đề 04: Frigate + Flask + Nodered***
+
+
+### ***Đề 05: File Browser***
